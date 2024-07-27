@@ -1,3 +1,42 @@
-this it C2 CLONE SHELL
-you can build your own C2
-other parts can be find here:https://oneclone.net/
+------------------------------------------------------------------------------------
+   _____                                  _______               _____               
+  / ____|                                |__   __|             / ____|              
+ | |     ___  _ __ ___  _ __ ___   __ _     | |_      _____   | |     __ _ ___  ___ 
+ | |    / _ \| '_ ` _ \| '_ ` _ \ / _` |    | \ \ /\ / / _ \  | |    / _` / __|/ _ \
+ | |___| (_) | | | | | | | | | | | (_| |    | |\ V  V / (_) | | |___| (_| \__ \  __/
+  \_____\___/|_| |_| |_|_| |_| |_|\__,_|    |_| \_/\_/ \___/   \_____\__,_|___/\___|
+                                                                                    
+------------------------------------------------------------------------------------
+|  Originally built by 1okko | "I didn't design it, I just forked it" -Sl4y3rJ3ns  |
+------------------------------------------------------------------------------------
+
+Oh no! You just broke your $1000 Comma Two case while trying to disassemble it. What
+are you going to do about it?
+
+...
+
+Conveniently, you stumble across a Github page with an STL to replace the case for
+your Comma Two. You are overjoyed that you found a replacement for your device that
+has been sitting in the bottom of your drawer for months!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Items required: A 3d printer (FDM, SLA or any other kind), a UV-resistant material
+(The original case was printed in ASA, but you can also use ABS), soldering iron, 4 
+screws (Any kind M3x6mm, preferably hex) and 4 heat inserts of the size of the
+previously mentioned screws.
+
+Slicer used: OrcaSlicer
+
+Slicer Settings: Anything you think is the strongest and will stay alive in the sun.
+
+1. Print the STL provided in the repository.
+
+2. Remove any supported that you may or may not have added in the slicer settings.
+
+3. Heat your soldering iron up to 265 degrees Celsius. Put the insert on each screw
+   hole and push in gently. MAKE SURE NOT TO TOUCH THE SOLDERING IRON OR THE INSERTS
+   UNTIL SUFFICIENTLY COOLED DOWN!!!
+
+4. Reassemble the Comma Two (hopefully without breaking it :p) and admire your hard
+   work you have done to fix your device!
